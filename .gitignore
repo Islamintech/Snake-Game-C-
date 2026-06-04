@@ -1,0 +1,15 @@
+# Build output
+/build/
+/snake.exe
+
+# Object files / compiled artifacts
+*.o
+*.obj
+*.exe
+
+# Editor / OS cruft
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
